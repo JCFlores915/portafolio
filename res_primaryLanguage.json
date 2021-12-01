@@ -1,0 +1,238 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Juan Carlos Flores. As a professional in system engineering I intend to share each of my knowledge to further strengthen the team work and each of the processes currently running in the company. I consider myself a person open to change and updating continue, improving my skills and letting myself be guided by the good practice in work and personal development.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Café  Falcon Master",
+        "startDate": "2020",
+        "description": "",
+        "images": [
+          "images/portfolio/restaurant/p1.png",
+          "images/portfolio/restaurant/p2.png"
+        ],
+        "url": "proyect/Restaurante/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Personal Portfolio",
+        "startDate": "2018",
+        "description": "",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "proyect/Portafolio/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "eflyer",
+        "startDate": "2020",
+        "description": "",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "proyect/eflyer-master/eflyer-master/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Delfood",
+        "startDate": "2021  ",
+        "description": "",
+        "images": [
+          "images/portfolio/delfoof/p1.jpg",
+          "images/portfolio/delfoof/p2.jpg"
+        ],
+        "url": "proyect/delfood/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "ogani master",
+        "startDate": "2021",
+        "description": "",
+        "images": [
+          "images/portfolio/ogani/p1.jpg",
+          "images/portfolio/ogani/p2.jpg"
+        ],
+        "url": "proyect/ogani-master/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Finance Business",
+        "startDate": "2019",
+        "description": "",
+        "images": [
+          "images/portfolio/finances/p1.jpg",
+          "images/portfolio/finances/p2.jpg"
+        ],
+        "url": "proyect/finance-business/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Courier",
+        "startDate": "2021",
+        "description": "",
+        "images": [
+          "images/portfolio/courier/p1.jpg",
+          "images/portfolio/courier/p2.jpg"
+        ],
+        "url": "proyect/courier/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Hypernovalabs Panama",
+        "title": "Back-End Developer",
+        "years": "10.2020 - present",
+        "mainTech": [
+          "Angular 8/9","React JS","React Native","Python",".Net Core"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "CLARO NICARAGUA",
+        "title": "Front-end Developer",
+        "years": "02.2018 - 07.2020",
+        "mainTech": [
+          "Angular 7/8","React JS","Materialize","IONIC","PHP"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "React JS",
+          "Angular Material",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "Central de Azulejos",
+        "title": "Full-Stack Developer",
+        "years": "01.2017 - 01.2018",
+        "mainTech": [
+          "PHP","React JS","Mysql"
+        ],
+        "technologies": [
+          "PHP",
+          "JavaScript",
+          "React Js"
+        ]
+      },
+      {
+        "company": "UNI Universidad Nacional Ingenieria",
+        "title": "Technical Support",
+        "years": "01.2015 - 09.2016",
+        "mainTech": [
+          "PHP 7"
+        ],
+        "technologies": [
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
